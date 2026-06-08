@@ -1,0 +1,21 @@
+<svg width="1200" height="1500" viewBox="0 0 1200 1500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#302b26"/>
+      <stop offset="100%" stop-color="#8f6d5c"/>
+    </linearGradient>
+    <linearGradient id="shape" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f7f1eb"/>
+      <stop offset="100%" stop-color="#d9c3b3"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1500" rx="40" fill="url(#bg)"/>
+  <ellipse cx="600" cy="900" rx="480" ry="560" fill="url(#shape)" opacity="0.95"/>
+  <path d="M300 430C340 280 520 190 720 210C920 230 980 390 940 540C900 690 780 830 560 830C380 830 280 640 300 430Z" fill="#f7f1eb"/>
+  <path d="M720 320C760 450 780 600 740 770C700 940 540 1030 360 990C380 810 420 620 520 520C620 420 660 380 720 320Z" fill="#c8b0a0" opacity="0.75"/>
+  <path d="M580 1120C600 1180 620 1240 650 1320C540 1290 430 1190 360 1040C440 1080 520 1105 580 1120Z" fill="#d9c3b3"/>
+  <rect x="420" y="220" width="360" height="70" rx="12" fill="#f7f1eb"/>
+  <rect x="360" y="1200" width="480" height="220" rx="20" fill="#f7f1eb" opacity="0.72"/>
+  <text x="600" y="1260" text-anchor="middle" fill="#302b26" font-family="sans-serif" font-size="56" font-weight="700">Editorial Portrait</text>
+  <text x="600" y="1335" text-anchor="middle" fill="#302b26" font-family="sans-serif" font-size="32">Fashion Story for Kenya</text>
+</svg>
